@@ -20,6 +20,7 @@ Verifica que aparezcan las tablas usuarios y contactos2.
 Puedes hacer clic en "Examinar" para ver registros.
 
 DESCRIPCION BREVE Funcionalidades principales:
+
 -Inicio de sesión con distintos tipos de usuario:
 -Administrador (puede ver todos los contactos)
 -Usuario normal o isializado(solo ve y administra sus propios contactos)
